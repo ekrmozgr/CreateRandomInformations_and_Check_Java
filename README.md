@@ -12,4 +12,4 @@ Oluşturulan kişilerin TC no, ad-soyad, yaş, telefon numarası ve telefon imei
 
 Ayrıca program Kisiler.txt'yi okuyarak imei ve tc kimlik numaralarının kaçının geçerli veya geçersiz olduğunu kontrol eder.
 
-Bu program Java dilinde yazılmış diğer projelerin arasında C dilinde yazılmış hali de mevcuttur.
+Bu program Java dilinde yazılmış olup diğer projelerin arasında C dilinde yazılmış hali de mevcuttur.
