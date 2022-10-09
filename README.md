@@ -20,7 +20,7 @@ This program has been written in Java language and also C version of it is avail
 ### Running Program
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72643454/194767090-42e10a26-e275-4f29-a35b-727547ecd310.jpg" width="408" height="618">
+<img src="https://user-images.githubusercontent.com/72643454/194767202-1b64463e-d30a-4193-8181-158081e12fce.jpg" width="408" height="618">
 </p>
 
 ### Created Infos     
@@ -29,4 +29,3 @@ This program has been written in Java language and also C version of it is avail
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72643454/194767102-5361daee-e868-44a3-9bed-d7dce5f855e6.png" width="659" height="233">
 </p>
-
